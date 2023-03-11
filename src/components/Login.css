@@ -1,0 +1,24 @@
+.App{
+  background: radial-gradient(circle at 10% 20%, rgb(134, 47, 199) 0%, rgb(235, 56, 137) 90%);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center
+
+}
+.btn_login{
+  background: radial-gradient(circle at 10% 20%, rgb(134, 47, 199) 0%, rgb(235, 56, 137) 90%);
+ color: white !important;
+ letter-spacing: 2px;
+
+}
+.btn_login:hover{
+ color: white !important;
+ opacity: 0.9;
+}
+.margin{
+  height: 2px;
+  background-color: black;
+  width: 15%;
+  margin: auto;
+}
